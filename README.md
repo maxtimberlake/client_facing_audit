@@ -1,1 +1,2 @@
-# client_facing_audit_output
+<h2>Description</h2>
+In my current role as a GRC Analyst, I conduct initial compliance assessments for internal stakeholders within the organization. The attached document serves as an illustrative sample of such audits. Its primary objective is to demonstrate to the client the controls that are currently absent in their processes, essentially serving as a catalyst for them to engage with our services. It's crucial to emphasize that this document is designed with the client in mind, ensuring that it is both precise and easily comprehensible, even for individuals without a technical background.
